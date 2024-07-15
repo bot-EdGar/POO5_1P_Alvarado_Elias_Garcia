@@ -3,7 +3,6 @@ package com.mycompany.correo1;
  *
  * @author edgar
  */
-import java.util.*;
 import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.Properties;
@@ -32,9 +31,8 @@ public abstract class Usuario {
         this.user = user;
         this.password = password;
     }
-        //private static String emailFromString="edgarcia20033@gmail.com";
-    //private static conta = MegMente123
-    public void enviarCorreo(String destinatario, String asunto, String cuerpo){
+
+    public void enviarCorreo(String destinatario, String asunto, String cuerpo){//DESTINATARIO = CORREO AL QUE LLEGA
         Properties props=new Properties();
         props.put("mail.smtp.auth", "true");
         props.put("mail.smtp.starttls.enable", "true");
@@ -42,13 +40,13 @@ public abstract class Usuario {
         props.put("mail.smtp.port", "587");
         Session session = Session.getInstance(props, new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication(user, password);
+                return new PasswordAuthentication("editorial.proyecto1.parcial@gmail.com", "pszalxluqqnpmjlo");
             }
             });
         try {
             // Crear el mensaje
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress(user));
+            message.setFrom(new InternetAddress("editorial.proyecto1.parcial@gmail.com"));
             message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(destinatario));
             message.setSubject(asunto);
             message.setText(cuerpo);
@@ -62,7 +60,6 @@ public abstract class Usuario {
             System.out.println(e);
         }
     }
-
 
     public String getNombre(){
         return nombre;
