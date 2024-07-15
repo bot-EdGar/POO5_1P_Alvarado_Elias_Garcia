@@ -1,0 +1,8 @@
+EDITOR,Juan,Caicedo,juCaice,password,edgarcia20033@gmail.com
+REVISOR,Valeria,Brown,valeriabrown,MegMente123,edgarcia20033@gmail.com
+EDITOR,Bolivar,Uno,bolivaruno,MegMente123,edgarcia20033@gmail.com
+REVISOR,Andres,Moran,andresmoran,MegMente123,edgarcia20033@gmail.com
+EDITOR,Jeremy,Dos,jeremydos,MegMente123,edgarcia20033@gmail.com
+REVISOR,Maria,Noboa,marianoboa,MegMente123,edgarcia20033@gmail.com
+EDITOR,Derlis,Gonzalez,derlisgonzalez,MegMente123,edgarcia20033@gmail.com
+REVISOR,Isaac,Benitez,isaacbenitez,MegMente123,edgarcia20033@gmail.com

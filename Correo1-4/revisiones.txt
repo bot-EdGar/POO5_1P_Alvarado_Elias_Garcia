@@ -1,0 +1,31 @@
+Artículo: titulo, Revisor: Maria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: tiul, Revisor: Maria, Comentarios: [c], Decision: ACEPTADO
+Artículo: articulo, Revisor: Valeria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Isaac, Comentarios: [comnentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Maria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Valeria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Maria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Andres, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Artículo: titulo, Revisor: Maria, Comentarios: [comentarios], Decision: ACEPTADO
+Artículo: titulo, Revisor: Valeria, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: []
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: []
+Artículo: titulo, Revisor: Isaac, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Artículo: titulo, Revisor: Isaac, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Artículo: titulo, Revisor: Andres, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Artículo: titulo, Revisor: Maria, Comentarios: [comentarios], Decision: ACEPTADO
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Nombre del artículo: titulo, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [comentarios]
+Artículo: f, Revisor: Valeria, Comentarios: [come], Decision: ACEPTADO
+Nombre del artículo: f, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [come]
+Nombre del artículo: f, Editor: Derlis Gonzalez, Decisión final: PUBLICADO, Comentarios de los revisores: [come]
