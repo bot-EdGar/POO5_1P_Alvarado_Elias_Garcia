@@ -3,6 +3,7 @@ package com.mycompany.correo1;
  *
  * @author edgar
  */
+import java.util.*;
 import javax.mail.*;
 import javax.mail.internet.*;
 import java.util.Properties;
